@@ -27,7 +27,7 @@ Property of Dr.Truck kun : B57-911
        Anti can neglect all gravity and it can also invoke gravity on anything it can be disabled by distroying the core located in the center of the gem.The ore has the texture of mud and it is clear emitating a dim red glow. Anti will 
    melt at  20p. Anti can  be found 10n below the polar ice-caps of mars.(More research must be done)
  - Nth :
-       Nth can provide the user with overwhelming strength. Nth can't be frozen or melted it can only be distroyed by a mithril based energy weapon. Nth will also deplete the players energy. You can counter this by constantly pumping 
+       Nth can provide the user with overwhelming strength. Nth can't be frozen it can only be melted by a mithril based energy weapon or tool. Nth will also deplete the players energy. You can counter this by constantly pumping 
    the body with energy to replenish the supply that has been used up by the nth gem. Nth can be found 100n below the polar ice-caps of mars.(More research must be done)
  - Aluminium Oxide C11 :
        This ore is used to create the strongest type of glass that can only be distroyed by a mithril based energy weapon. This ore has a clear color and very hard it will melt at 1bp. This ore can be found 1bn below the surface of mars.
