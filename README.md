@@ -1,7 +1,7 @@
 # Mars Research Log-1 (Translated)
 Property of Dr.Truck kun : B57-911
 + **Conversions**
- - Distance :
+ - Distance : 
    - Nio(ni-o) 1nio or 1n = 5miles
    - Dio(di-o) 1dio or 1d = 1/2n  2d = 1n
    - Rio(ri-o) 1rio or 1r = 1/2d  2r = 1d , 4r = 1n
