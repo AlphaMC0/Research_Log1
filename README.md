@@ -13,7 +13,7 @@ Property of Dr.Truck kun : B57-911
    - Yem(ye-m) 1yem or 1y = 2h
    - Lem(le-m) 1lem or 1l = 1h   2l = 1y
    - Qem(qe-m) 1qem or 1q = 30min  2q = 1l , 4q = 1y
- - Temperature :
+ - Temperature : 
    - Pal(pa-l) 1pal or 1p = 10 degrees celsius 1bp = 1,000,000,000p = 10,000,000,000 degrees celsius
 + **Materials/Items**
  - Mithril :
