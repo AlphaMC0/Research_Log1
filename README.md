@@ -1,5 +1,5 @@
 # Mars Research Log-1 (Translated)
-Property of Dr.Truck kun : B57-911
+Property of Dr.Pannin : B57-911
 + **Conversions**
  - Distance : 
    - Nio(ni-o) 1nio or 1n = 5miles
