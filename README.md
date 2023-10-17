@@ -1,20 +1,20 @@
 # Mars Research Log-1 (Translated)
 Property of Dr.Pannin : B57-911 
 + **Conversions**
-  - Distance : 
-    - Nio(ni-o) 1nio or 1n = 5miles
-    - Dio(di-o) 1dio or 1d = 1/2n  2d = 1n
-    - Rio(ri-o) 1rio or 1r = 1/2d  2r = 1d , 4r = 1n
-  - Weight :
-    - Ker(k-er) 1ker or 1k = 10kilograms
-    - Ber(b-er) 1ber or 1b = 1/2 k   2b = 1k
-    - Ter(T-er) 1ter or 1t = 1/2 b   2t = 1b , 4t = 1k
-  - Time :
-    - Yem(ye-m) 1yem or 1y = 2h
-    - Lem(le-m) 1lem or 1l = 1h   2l = 1y
-    - Qem(qe-m) 1qem or 1q = 30min  2q = 1l , 4q = 1y
-  - Temperature : 
-    - Pal(pa-l) 1pal or 1p = 10 degrees celsius 1bp = 1,000,000,000p = 10,000,000,000 degrees celsius
+   - Distance : 
+     - Nio(ni-o) 1nio or 1n = 5miles
+     - Dio(di-o) 1dio or 1d = 1/2n  2d = 1n
+     - Rio(ri-o) 1rio or 1r = 1/2d  2r = 1d , 4r = 1n
+   - Weight :
+     - Ker(k-er) 1ker or 1k = 10kilograms
+     - Ber(b-er) 1ber or 1b = 1/2 k   2b = 1k
+     - Ter(T-er) 1ter or 1t = 1/2 b   2t = 1b , 4t = 1k
+   - Time :
+     - Yem(ye-m) 1yem or 1y = 2h
+     - Lem(le-m) 1lem or 1l = 1h   2l = 1y
+     - Qem(qe-m) 1qem or 1q = 30min  2q = 1l , 4q = 1y
+   - Temperature : 
+     - Pal(pa-l) 1pal or 1p = 10 degrees celsius 1bp = 1,000,000,000p = 10,000,000,000 degrees celsius
 + **Materials/Items**
  - Mithril :
      1k of mithril ore has a power output of 1GW. Mithril can also be used in a bomb. Mithril will blow up if the ore's power absorbtion limit is exceeded. The maximum power absorbtion limit of mithril is 1GW. It is recomended to only 
