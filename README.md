@@ -1,5 +1,5 @@
 # Mars Research Log-1 (Translated)
-Property of Dr.Leo : B51-911 
+Property of Dr.Kaito Nin : B51-911 
 + **Conversions**
    - Distance : 
      - Nio(ni-o) 1nio or 1n = 5miles
