@@ -1,4 +1,4 @@
-# Mars Research Log-1 (Translated)
+# Research Log-1 (Translated)
 Property of Dr. Kaito Nin : B51-911 
 + **Conversions**
    - Distance : 
