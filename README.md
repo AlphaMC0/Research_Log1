@@ -26,7 +26,7 @@ Property of Dr. Kaito : B51-911
      regain its power from any percentage of power it has left. Mithril can only be found in two small deposits the base is located on one deposit. Mithril deposits can be found anywhere below 1n.(More research must be done)
    - Orthrim :
        Orthrim can neglect 99% of all physcal attacks from any weapon the only weapon that can distroy orthrim is an energy weapon based on mithril. Orthrim is commonly used for protection and as holding cells. Orthrim will melt at 50bp.
-     Orthrim can be found near the core of mars.
+     Orthrim can be found on the outside of Mithril Deposits.
    - Anti :
        Anti can neglect all gravity and it can also invoke gravity on anything it can be disabled by distroying the core located in the center of the gem.The ore has the texture of mud and it is clear emitating a dim red glow. Anti will 
      melt at  20p. Anti can  be found 10n below the polar ice-caps of mars.(More research must be done)
