@@ -47,3 +47,5 @@ Property of Dr. Kaito : B51-911
        Atractium can atract any metal. It can be melted at 100p. Atractium can be found 1000n below the surface of mars.
    - **Rethrim** :
        Rethrim can purify anything . I is found on the outside of mithril deposits. I can be used to control mithril. It will not freeze but will melt at 100000p.(More research must be done)
+   - **Clarium** :
+       Clarium is used to create focusing glass. Focusing glass can focus energy and  redirect it.
