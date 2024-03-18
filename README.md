@@ -25,8 +25,8 @@ Property of Dr. Kaito : B51-911
    - **Mithril** :
        1k of mithril ore has a power output of 1GW. Mithril can also be used in a bomb. Mithril will blow up if the ore's power absorbtion limit is exceeded. The maximum power absorbtion limit of mithril is 1GW. It is 
      recomended to only use 80% of the mithril's power so it only has a 25% chance of blowing up. If you use 100% of the mithril's power it has a 50% chance of blowing up. If mithril blows-up it has a blast radius of 
-     10n. It takes mithril 1y to fully regain its power from any percentage of power it has left. Mithril can only be found in two small deposits the base is located on one deposit. Mithril deposits can be found anywhere 
-     below 1n.(More research must be done)
+     10n. It takes mithril 1y to fully regain its power from any percentage of power it has left. Mithril can only be found in two small deposits (the base is located on one deposit). Mithril deposits can be found 
+     anywhere below 1n.(More research must be done)
    - **Orthrim** :
        Orthrim can neglect 99% of all physcal attacks from any weapon the only weapon that can distroy orthrim is an energy weapon based on mithril. Orthrim is commonly used for protection and as holding cells. Orthrim 
      will melt at 50bp. Orthrim can be found on the outside of Mithril Deposits.
