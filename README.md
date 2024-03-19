@@ -1,4 +1,4 @@
-# Research Log-1 (Translated)
+# Research Log UPA-01
 Property of Dr. Kaito : B51-911 
 
 **Conversions**
