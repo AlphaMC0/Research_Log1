@@ -51,3 +51,5 @@ Property of Dr. Kaito : B51-911
        Clarium is used to create focusing glass. Focusing glass can focus energy and  redirect it.
    - **Polyethylene A3**
        Polyethylene is used to make the insulation for wires. Effective to protect against electric shocks. (The Chemical Formula has been altered)
+   - **Fiber Glass A6**
+       Fiber Glass A6 is used to manufacture control panels. Due to the new material it can alter itself to work and control every electronic.
